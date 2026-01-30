@@ -8,7 +8,7 @@ This project explores an online education platform dataset to understand learner
 
 ## What’s inside
 
-- **Notebook:** `Untitled-1.ipynb`
+- **Notebook:** `-1.ipynb`
 - **Dataset:** `EduPro_Online_Platform_Dataset.xlsx`
 
 The notebook:
